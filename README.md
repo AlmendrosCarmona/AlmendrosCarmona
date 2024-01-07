@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data Scientist in a High Tech start up in Barcelona. 
-- - 🌱 I’m currently learning Artificial Intelligence.
-- - 👯 I’m looking to use AI to improve everyones live
+- 🌱 I’m currently learning Artificial Intelligence.
+- 👯 I’m looking to use AI to improve everyones live
 
 
 My skills, among others: 
@@ -32,4 +32,4 @@ My skills, among others:
   </a>
 </p>
 
-
+### GitHub is under developpment.. new changes soon! 
