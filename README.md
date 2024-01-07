@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![plot](./header_github.png)
 
-### Hi there 👋 As an individual, I possess a special blend of curiosity, enthusiasm, and unwavering resilience that defines my approach to life.
+### Hi there 👋 
+### As an individual, I possess a special blend of curiosity, enthusiasm, and unwavering resilience that defines my approach to life.
 
 - 🔭 I’m currently working as a Data Science Manager in a High Tech start up in Barcelona. 
 - 🌱 I’m currently learning Artificial Intelligence.
