@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header][["./header_github.png"](https://github.com/AlmendrosCarmona/AlmendrosCarmona/blob/ece6e330f693ea043b2dafb85bc92b641f171641/header_github.png)]
+![plot](./header_github.png)
