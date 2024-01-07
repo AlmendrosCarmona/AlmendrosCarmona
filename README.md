@@ -28,7 +28,7 @@ My skills, among others:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,gcp,grafana,latex,linux,matlab,mongodb,mysql,opencv,postgres,pytorch, sklearn, tensorflow, vscode, sqlite, qt" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,gcp,grafana,latex,linux,matlab,mongodb,mysql,opencv,postgres,pytorch,sklearn,tensorflow,vscode,sqlite,qt" />
   </a>
 </p>
 
