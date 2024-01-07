@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![plot](./header_github.png)
 
-### Hi there 👋
+### Hi there 👋 As an individual, I possess a special blend of curiosity, enthusiasm, and unwavering resilience that defines my approach to life.
 
 - 🔭 I’m currently working as a Data Science Manager in a High Tech start up in Barcelona. 
 - 🌱 I’m currently learning Artificial Intelligence.
@@ -34,5 +34,9 @@ My skills, among others:
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,gcp,grafana,linux,matlab,mongodb,mysql,opencv,postgres,pytorch,sklearn,tensorflow,sqlite,qt,raspberrypi,arduino,linux,py,r,ros&perline=11" />
   </a>
 </p>
+
+My certifications: 
+
+
 
 ### GitHub is under developpment.. new changes soon! 
