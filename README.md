@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AlmendrosCarmona/AlmendrosCarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ![plot](./header_github.png)
+
+### Hi there 👋
+
+- 🔭 I’m currently working as a Data Scientist in a High Tech start up in Barcelona. 
+- - 🌱 I’m currently learning Artificial Intelligence.
+- - 👯 I’m looking to use AI to improve everyones live
+
+
+My skills, among others: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,gcp,grafana,latex,linux,matlab,mongod,mysql,opencv,postgres,pytorch, sklearn, tensorflow, vscode, sqlite, qt" />
+  </a>
+</p>
+
+
