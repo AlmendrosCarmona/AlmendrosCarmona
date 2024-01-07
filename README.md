@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data Scientist in a High Tech start up in Barcelona. 
+- 🧑‍🎓Master in Industrial Engineering
+- 🌟 Machine and Deep Learning Specialization and Tensorflow developer by Deeplearning.ai
+- 🧠Passionate learning.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 👯 I’m looking to use AI to improve everyones live
 
